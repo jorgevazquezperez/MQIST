@@ -1,5 +1,0 @@
-tensorflow
-qiskit
-qiskit-aer
-numpy
-
